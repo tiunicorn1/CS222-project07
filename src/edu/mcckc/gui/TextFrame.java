@@ -16,6 +16,17 @@ public class TextFrame extends JFrame
 
     public TextFrame()
     {
+        pnlEntry = new TextEntryPanel();
+        pnlView = new TextViewPanel();
+        manager = new TextManager();
+
+        // Send the View panel to Entry panel (as a reference) using a SETTER in the Entry Panel
+        pnlEntry.setViewPanelReference(pnlView);
+        pnlEntry.setManagerReference(manager);
+        pnlView.setManagerReference(manager);
+
+        add(pnlEntry, BorderLayout.WEST);
+        add(pnlView, BorderLayout.EAST);
 
     }
 }

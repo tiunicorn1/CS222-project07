@@ -1,4 +1,564 @@
-0 [main] DEBUG edu.mcckc.driver.Main  - STARTING MAIN PROGRAM!!
-1656 [main] DEBUG edu.mcckc.driver.Main  - ENDING MAIN PROGRAM!!
-0 [main] DEBUG edu.mcckc.driver.Main  - STARTING MAIN PROGRAM!!
-1875 [main] DEBUG edu.mcckc.driver.Main  - ENDING MAIN PROGRAM!!
+0 [main] DEBUG edu.mcckc.driver.Main  - Inside Main Method
+5176 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processInputString
+5177 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - lstVowel : [a, e, i, o, u, y]
+5177 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - lstPunctuation : [,, ., ?, !, ;, :]
+5177 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: aei
+5177 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: a
+5177 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+5177 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+5177 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+5177 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: true
+5184 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 2
+5184 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+5184 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+5184 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+5184 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+5184 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: e
+5184 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+5184 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+5184 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+5184 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: true
+5184 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 4
+5184 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+5185 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+5185 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+5185 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+5185 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: i
+5185 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+5185 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+5185 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+5185 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: true
+5185 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 6
+5185 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+5185 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+5185 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+5185 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+5186 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - Inside processInputString
+5186 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - Input Text: aei
+5186 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getVowelCount:  6
+5186 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getConsonantCount:  0 
+5186 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getNumberCount:  0
+5186 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getSpaceCount:  0
+5186 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getPunctuationCount:  0
+0 [main] DEBUG edu.mcckc.driver.Main  - Inside Main Method
+2952 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processInputString
+2952 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - lstVowel : [a, e, i, o, u, y]
+2952 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - lstPunctuation : [,, ., ?, !, ;, :]
+2952 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: aei
+2953 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: a
+2953 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+2953 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+2953 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+2953 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: true
+2959 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 1
+2959 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+2959 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+2959 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+2960 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+2960 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: e
+2960 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+2960 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+2960 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+2960 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: true
+2960 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 2
+2960 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+2960 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+2960 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+2960 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+2960 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: i
+2960 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+2961 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+2961 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+2961 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: true
+2961 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 3
+2961 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+2961 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+2961 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+2961 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+2961 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - Inside processInputString
+2961 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - Input Text: aei
+2961 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getVowelCount:  3
+2962 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getConsonantCount:  0 
+2962 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getNumberCount:  0
+2962 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getSpaceCount:  0
+2962 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getPunctuationCount:  0
+1 [main] DEBUG edu.mcckc.driver.Main  - Inside Main Method
+3031 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processInputString
+3031 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - lstVowel : [a, e, i, o, u, y]
+3032 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - lstPunctuation : [,, ., ?, !, ;, :]
+3032 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: aei
+3032 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: a
+3032 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+3032 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+3032 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+3032 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: true
+3038 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 1
+3038 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+3038 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+3039 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+3039 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+3039 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: e
+3039 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+3039 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+3039 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+3039 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: true
+3039 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 2
+3039 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+3039 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+3039 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+3039 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+3039 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: i
+3040 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+3040 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+3040 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+3040 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: true
+3040 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 3
+3040 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+3040 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+3040 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+3040 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+3040 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - Inside processInputString
+3040 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - Input Text: aei
+3041 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getVowelCount:  3
+3041 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getConsonantCount:  0 
+3041 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getNumberCount:  0
+3041 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getSpaceCount:  0
+3041 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getPunctuationCount:  0
+9653 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processInputString
+9654 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - lstVowel : [a, e, i, o, u, y]
+9654 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - lstPunctuation : [,, ., ?, !, ;, :]
+9654 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: ouy
+9654 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: o
+9654 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+9654 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+9654 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+9654 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: true
+9654 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 1
+9654 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+9654 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+9654 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+9654 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+9655 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: u
+9655 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+9655 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+9655 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+9655 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: true
+9655 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 2
+9655 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+9655 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+9655 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+9655 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+9655 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: y
+9655 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+9655 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+9655 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+9655 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: true
+9656 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 3
+9656 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+9656 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+9656 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+9656 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+9656 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - Inside processInputString
+9656 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - Input Text: ouy
+9656 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getVowelCount:  3
+9656 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getConsonantCount:  0 
+9656 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getNumberCount:  0
+9657 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getSpaceCount:  0
+9657 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getPunctuationCount:  0
+17627 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processInputString
+17627 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - lstVowel : [a, e, i, o, u, y]
+17627 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - lstPunctuation : [,, ., ?, !, ;, :]
+17627 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: 52 Td
+17627 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: 5
+17627 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+17627 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+17627 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+17627 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+17627 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+17627 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+17628 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: false
+17628 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processSpace
+17628 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isSpace: false
+17628 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isSpace: false
+17628 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processNumeric  
+17628 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isNumber: false
+17628 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside Try/Catch
+17628 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - stringTokenInteger: 5
+17628 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isNumber: true
+17628 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 0
+17628 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+17628 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 1
+17628 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+17628 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: 2
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: false
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processSpace
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isSpace: false
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isSpace: false
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processNumeric  
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isNumber: false
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside Try/Catch
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - stringTokenInteger: 2
+17629 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isNumber: true
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 0
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 2
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text:  
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: false
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processSpace
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isSpace: false
+17630 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isSpace: true
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 0
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 2
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 1
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: T
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: false
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processSpace
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isSpace: false
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isSpace: false
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processNumeric  
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isNumber: false
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside Try/Catch
+17631 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - java.lang.NumberFormatException: For input string: "T"
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - stringTokenInteger: 0
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isNumber: false
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 0
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 1
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 2
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 1
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: d
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: false
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processSpace
+17632 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isSpace: false
+17633 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isSpace: false
+17633 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processNumeric  
+17633 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isNumber: false
+17633 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside Try/Catch
+17633 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - java.lang.NumberFormatException: For input string: "d"
+17633 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - stringTokenInteger: 0
+17633 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isNumber: false
+17633 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 0
+17633 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 2
+17633 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 2
+17633 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 1
+17633 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+17633 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - Inside processInputString
+17633 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - Input Text: 52 Td
+17633 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getVowelCount:  0
+17634 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getConsonantCount:  2 
+17634 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getNumberCount:  2
+17634 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getSpaceCount:  1
+17634 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getPunctuationCount:  0
+51330 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processInputString
+51330 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - lstVowel : [a, e, i, o, u, y]
+51330 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - lstPunctuation : [,, ., ?, !, ;, :]
+51330 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: A!d 5
+51330 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: A
+51330 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+51330 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+51330 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+51330 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: true
+51331 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 1
+51331 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+51331 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+51331 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+51331 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+51331 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: !
+51331 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+51331 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+51331 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+51331 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+51331 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+51331 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+51331 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: true
+51331 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 1
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 1
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: d
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: false
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processSpace
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isSpace: false
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isSpace: false
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processNumeric  
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isNumber: false
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside Try/Catch
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - java.lang.NumberFormatException: For input string: "d"
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - stringTokenInteger: 0
+51332 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isNumber: false
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 1
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 1
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 1
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text:  
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: false
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processSpace
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isSpace: false
+51333 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isSpace: true
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 1
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 1
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 1
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 1
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: 5
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: false
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processSpace
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isSpace: false
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isSpace: false
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processNumeric  
+51334 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isNumber: false
+51335 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside Try/Catch
+51335 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - stringTokenInteger: 5
+51335 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isNumber: true
+51335 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 1
+51335 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 1
+51335 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 1
+51335 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 1
+51335 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 1
+51335 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - Inside processInputString
+51335 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - Input Text: A!d 5
+51335 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getVowelCount:  1
+51335 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getConsonantCount:  1 
+51335 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getNumberCount:  1
+51336 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getSpaceCount:  1
+51336 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getPunctuationCount:  1
+65191 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processInputString
+65191 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - lstVowel : [a, e, i, o, u, y]
+65191 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - lstPunctuation : [,, ., ?, !, ;, :]
+65191 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: A!d 5 e 3.w
+65191 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: A
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: true
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 1
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 0
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: !
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+65192 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: true
+65193 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 1
+65193 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 0
+65193 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+65193 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+65193 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 1
+65193 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: d
+65193 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: false
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processSpace
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isSpace: false
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isSpace: false
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processNumeric  
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isNumber: false
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside Try/Catch
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - java.lang.NumberFormatException: For input string: "d"
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - stringTokenInteger: 0
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isNumber: false
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 1
+65202 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 1
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 0
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 1
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text:  
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: false
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processSpace
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isSpace: false
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isSpace: true
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 1
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 1
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 0
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 1
+65203 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 1
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: 5
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: false
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processSpace
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isSpace: false
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isSpace: false
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processNumeric  
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isNumber: false
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside Try/Catch
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - stringTokenInteger: 5
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isNumber: true
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 1
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 1
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 1
+65204 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 1
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 1
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text:  
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: false
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processSpace
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isSpace: false
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isSpace: true
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 1
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 1
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 1
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 2
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 1
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: e
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+65205 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: true
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 2
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 1
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 1
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 2
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 1
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text:  
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: false
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processSpace
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isSpace: false
+65206 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isSpace: true
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 2
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 1
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 1
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 3
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 1
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: 3
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: false
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processSpace
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isSpace: false
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isSpace: false
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processNumeric  
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isNumber: false
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside Try/Catch
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - stringTokenInteger: 3
+65207 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isNumber: true
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 2
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 1
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 2
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 3
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 1
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: .
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: true
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 2
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 1
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 2
+65208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 3
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 2
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Input Text: w
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processAllCases
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processVowel
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isVowel: false
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isVowel: false
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processPunctuation
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isPunctuation: false
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isPunctuation: false
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processSpace
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isSpace: false
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isSpace: false
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside processNumeric  
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Init isNumber: false
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - Inside Try/Catch
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - java.lang.NumberFormatException: For input string: "w"
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - stringTokenInteger: 0
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - isNumber: false
+65209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - V Counts: 2
+65210 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - C Counts: 2
+65210 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - # Counts: 2
+65210 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - S Counts: 3
+65210 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.TextManager  - P Counts: 2
+65210 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - Inside processInputString
+65210 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - Input Text: A!d 5 e 3.w
+65210 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getVowelCount:  2
+65210 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getConsonantCount:  2 
+65210 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getNumberCount:  2
+65210 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getSpaceCount:  3
+65210 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.TextEntryPanel  - getPunctuationCount:  2
